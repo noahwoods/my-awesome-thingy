@@ -1,4 +1,4 @@
-import ContactCollection from "/.ContactCollection"
+// import contactData from "/.ContactCollection"
 
 
 
@@ -7,5 +7,4 @@ import ContactCollection from "/.ContactCollection"
 
 
 
-
-export default ContactForm "/.main.js"
+// export default ContactForm "/ContactList.js"

@@ -1,2 +1,3 @@
-import ContactList from "./ContactList"
-import ContactForm from "./ContactForm"
+import grabData from "./ContactList"
+// import ContactForm from "./ContactForm"
+console.log(grabData)
